@@ -8,8 +8,8 @@ module.exports = [
         text: '框架',
         ariaLabel: '框架',
         items: [
-            {text: 'seata', link: '/03.框架/01.seata/000'},
-            {text: 'dubbo', link: '/03.框架/02.dubbo/000'}
+            {text: 'seata', link: '/03.框架/01.seata/'},
+            {text: 'dubbo', link: '/03.框架/02.dubbo/'}
         ]
     },
     {
