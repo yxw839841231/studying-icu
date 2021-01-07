@@ -22,9 +22,11 @@ module.exports = {
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
   // bodyBgImg: [
-  //   'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175828.jpeg',
-  //   'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175845.jpeg',
-  //   'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175846.jpeg'
+  //   '/bg/bg-pu.png',
+  //   '/bg/bg-kj.png',
+  //   '/bg/bg-tb.png',
+  //   // 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175845.jpeg',
+  //   // 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175846.jpeg'
   // ], // body背景大图，默认无。 单张图片 String || 多张图片 Array, 多张图片时每隔15秒换一张。
   // bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0 ~ 1.0, 默认0.5
 
@@ -53,7 +55,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://image.studying.icu/WechatIMG762_1585755140602.jpeg-zjoin.image',
+    avatar: 'https://image.studying.icu/Wechat_1609992348581.jpeg-zjoin.image',
     name: 'XiaoWei Yang',
     slogan: 'Java 小码农',
   },

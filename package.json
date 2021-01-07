@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "studying-icu CloudBase Framework VuePress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev vuepress",
+    "build": "vuepress build vuepress",
+    "deploy": "cloudbase framework deploy"
+  },
+  "author": "zoin",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.0",
+    "vuepress-plugin-aplayer": "^1.0.2",
+    "vuepress-plugin-baidu-autopush": "^1.0.1",
+    "vuepress-plugin-baidu-tongji": "^1.0.1",
+    "vuepress-plugin-one-click-copy": "^1.0.2",
+    "vuepress-plugin-zooming": "^1.1.7",
+    "vuepress-theme-vdoing": "^1.7.2"
+  },
+  "dependencies": {
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-reading-progress": "^1.0.10",
+    "dayjs": "^1.10.2"
+  }
+}

@@ -1,11 +1,10 @@
 ---
 title: 江山如此多骄
-
+tagline: 一万年太久，只争朝夕
 lang: zh-cn
-sidebar: auto
 home: true
 heroText: 江山如此多骄
-tagline:
+bannerBg: /bg/bg-kj.png
 features:
   -
     title: 图文并茂
@@ -17,11 +16,11 @@ features:
 
   -
     title: 实践出真知
-    details: 实践才是检验真理的唯一标准。理论到实践，往往存在巨大的鸿沟，通过实践，才能真知检验是否真的掌握一项技术。
+    details: 实践才是检验真理的唯一标准。理论到实践，往往存在巨大的鸿沟，通过实践，才能检验出是否真的掌握一项技术。
 
 date: 2021-01-05 12:49:14
 permalink: /
 categories:
 tags:
-  - 
+  - 地瓜
 ---

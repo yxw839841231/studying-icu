@@ -1,25 +1,39 @@
 // nav
 module.exports = [
 
-    {text: '首页', link: '/'},
-    {text: 'Java', link: '/01.java/000'},
-    {text: '面试', link: '/02.面试/000'},
+    {
+        text: '首页',
+        link: '/'
+    },
+    {
+        text: '技术',
+        link: '/tech/',
+        ariaLabel: '技术',
+    },
+    {
+        text: '面试',
+        link: '/iv/',
+        ariaLabel: '面试',
+    },
     {
         text: '框架',
+        link: '/fw/',
         ariaLabel: '框架',
-        items: [
-            {text: 'seata', link: '/03.框架/01.seata'},
-            {text: 'dubbo', link: '/03.框架/02.dubbo'}
-        ]
+        // items: [
+        //     {text: 'seata', link: '/fw/seata/'},
+        //     {text: 'dubbo', link: '/fw/dubbo/'}
+        // ]
     },
     {
         text: '中间件',
+        link: '/mw/',
         ariaLabel: '中间件',
-        items: [
-            {text: 'kafka', link: '/04.中间件/01.kafka/000'},
-            {text: 'redis', link: '/04.中间件/02.redis/000'},
-        ]
+        // items: [
+        //     {text: 'kafka', link: '/04.中间件/01.kafka/000'},
+        //     {text: 'redis', link: '/mw/redis/'},
+        // ]
     },
+    {text: '书籍', link: '/book/'},
     // { text: '首页', link: '/' },
     // {
     //   text: '前端',
@@ -95,13 +109,13 @@ module.exports = [
     //     { text: 'Vue资源', link: '/pages/12df8ace52d493f6/' },
     //   ],
     // },
-    // {
-    //   text: '索引',
-    //   link: '/archives/',
-    //   items: [
-    //     { text: '分类', link: '/categories/' },
-    //     { text: '标签', link: '/tags/' },
-    //     { text: '归档', link: '/archives/' },
-    //   ],
-    // },
+    {
+      text: '索引',
+      link: '/archives/',
+      items: [
+        { text: '分类', link: '/categories/' },
+        { text: '标签', link: '/tags/' },
+        { text: '归档', link: '/archives/' },
+      ],
+    },
 ]
