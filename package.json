@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vuepress dev vuepress",
     "build": "vuepress build vuepress",
-    "deploy": "cloudbase framework deploy"
+    "deploy": "cloudbase framework deploy",
+    "baiduPush": "node utils/baiduPush.js https://dra-m.com && bash baiduPush.sh"
   },
   "author": "zoin",
   "license": "MIT",
