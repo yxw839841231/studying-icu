@@ -21,8 +21,10 @@
     "vuepress-theme-vdoing": "^1.7.2"
   },
   "dependencies": {
+    "@vssue/api-github-v4": "^1.4.7",
+    "@vssue/vuepress-plugin-vssue": "^1.4.7",
+    "dayjs": "^1.10.2",
     "vuepress-plugin-comment": "^0.7.3",
-    "vuepress-plugin-reading-progress": "^1.0.10",
-    "dayjs": "^1.10.2"
+    "vuepress-plugin-reading-progress": "^1.0.10"
   }
 }
