@@ -35,28 +35,28 @@ module.exports = [
       hm: 'e8e310c0a2588005c9569e6b383d8f2c',
     },
   ],
-  // [
-  //
-  //   '@vssue/vuepress-plugin-vssue', // 评论
-  //   {
-  //     platform: 'gitee', //v3的platform是github，v4的是github-v4
-  //     locale: 'zh', //语言
-  //     // 其他的 Vssue 配置
-  //     owner: 'yxw839841231', //github账户名
-  //     repo: 'studying-icu', //github一个项目的名称
-  //     clientId: '23e6971742d07bdb226ea820f6d84bfea93ab4f2104253c79dee50a47acedea3',//注册的Client ID
-  //     clientSecret: '1b26d534025a6ffe04ace6dc02d11f37a68343b737b1ddfb2a9e5958d309d0db',//注册的Client Secret
-  //     autoCreateIssue:true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
-  //
-  //   },
-  // ],
+  [
+
+    '@vssue/vuepress-plugin-vssue', // 评论
+    {
+      platform: 'github-v4', //v3的platform是github，v4的是github-v4
+      locale: 'zh', //语言
+      // 其他的 Vssue 配置
+      owner: 'yxw839841231', //github账户名
+      repo: 'studying-comment', //github一个项目的名称
+      clientId: '2157eb165ce0edbddfbe',//注册的Client ID
+      clientSecret: 'ca392aaa1b2981bce7b4f7dd045c36eaf2294bb2',//注册的Client Secret
+      autoCreateIssue:true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
+
+    },
+  ],
   // [
   //   'vuepress-plugin-comment', // 评论
   //   {
   //     choosen: 'gitalk',
   //     options: {
   //       clientID: '2157eb165ce0edbddfbe',
-  //       clientSecret: '02afd73fd3d3034bf9f34c71d05e93ba5b69f544',
+  //       clientSecret: 'ca392aaa1b2981bce7b4f7dd045c36eaf2294bb2',
   //       repo: 'studying-comment', // GitHub 仓库
   //       owner: 'yxw839841231', // GitHub仓库所有者
   //       admin: ['yxw839841231'], // 对仓库有写权限的人
