@@ -1,0 +1,3 @@
+本地启动：npm run dev
+本地编译：npm run bulid
+直接推送到腾讯云托管：tcb framework deploy
