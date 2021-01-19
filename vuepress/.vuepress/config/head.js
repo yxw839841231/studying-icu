@@ -18,7 +18,7 @@ module.exports = [
             async: 'async',
             src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
         },
-    ], // 网站关联Google AdSense 与 html格式广告支持
+    ], // 网站关联Google AdSense 与 html 格式广告支持
     ['script', {}, `
             var _hmt = _hmt || [];
             (function() {
