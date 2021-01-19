@@ -4,7 +4,7 @@ tagline: 一万年太久，只争朝夕
 lang: zh-cn
 home: true
 heroText: 研究院
-bannerBg: /bg/bg-kj.png
+bannerBg: https://cdn.jsdelivr.net/gh/yxw839841231/images/studying-icu/20210119164810.png
 features:
   -
     title: 图文并茂
@@ -24,3 +24,4 @@ categories:
 tags:
   - 
 ---
+
