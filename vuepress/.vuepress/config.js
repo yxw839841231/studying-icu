@@ -4,8 +4,8 @@ const themeConfig = require('./config/themeConfig.js');
 
 
 module.exports = {
-  title: "江山如此多骄",
-  description: "杨小伟的Java学习分享，包含 Java 基础知识、框架和中间件等的实践。",
+  title: "研究院",
+  description: "Java学习分享，包含 Java 基础知识，面试问题、一些框架和中间件等的实践。",
   // base: "/",
   theme: 'vdoing',
   markdown: {

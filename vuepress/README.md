@@ -1,9 +1,9 @@
 ---
-title: 江山如此多骄
+title: 研究院
 tagline: 一万年太久，只争朝夕
 lang: zh-cn
 home: true
-heroText: 江山如此多骄
+heroText: 研究院
 bannerBg: /bg/bg-kj.png
 features:
   -
@@ -22,5 +22,5 @@ date: 2021-01-05 12:49:14
 permalink: /
 categories:
 tags:
-  - 地瓜
+  - 
 ---

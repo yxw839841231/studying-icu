@@ -6,7 +6,7 @@ module.exports = [
         'meta',
         {
             name: 'keywords',
-            content: 'Java,seata,dubbo,Spring,数据库,框架,中间件',
+            content: 'Java,seata,dubbo,Spring,数据库,框架,中间件,线程,研究院',
         },
     ],
     // ['meta', {name: 'baidu-site-verification', content: '7F55weZDDc'}], // 百度统计的站长验证
