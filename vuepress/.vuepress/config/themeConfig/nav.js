@@ -33,7 +33,8 @@ module.exports = [
         //     {text: 'redis', link: '/mw/redis/'},
         // ]
     },
-    {text: '书籍', link: '/book/'},
+    {text: '书籍教程', link: '/book/'},
+    {text: '工具指南', link: '/tool/'},
     // { text: '首页', link: '/' },
     // {
     //   text: '前端',
