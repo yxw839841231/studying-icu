@@ -23,10 +23,10 @@ module.exports = [
             var _hmt = _hmt || [];
             (function() {
                 //百度统计
-                // var hm = document.createElement("script");
-                // hm.src = "https://hm.baidu.com/hm.js?e8e310c0a2588005c9569e6b383d8f2c
-                // var s = document.getElementsByTagName("script")[0]; 
-                // s.parentNode.insertBefore(hm, s);
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?e8e310c0a2588005c9569e6b383d8f2c
+                var s = document.getElementsByTagName("script")[0]; 
+                s.parentNode.insertBefore(hm, s);
                 
                 // 引入谷歌,不需要可删除这段
                 // var hm1 = document.createElement("script");

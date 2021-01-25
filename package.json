@@ -15,7 +15,6 @@
     "vuepress": "^1.5.0",
     "vuepress-plugin-aplayer": "^1.0.2",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-baidu-tongji": "^1.0.1",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-mermaidjs": "^1.8.1",
     "vuepress-plugin-one-click-copy": "^1.0.2",

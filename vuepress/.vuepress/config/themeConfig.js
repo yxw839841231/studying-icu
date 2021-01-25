@@ -86,5 +86,5 @@ module.exports = {
     copyrightInfo:
       'studying.icu <a style="color: #f4f4f4" href="https://www.liuliangbao.cn/" title="流量宝" target="_blank">流量宝</a>', // 博客版权信息，支持a标签
   },
-  htmlModules // 插入 html (广告)模块
+  // htmlModules // 插入 html (广告)模块
 }

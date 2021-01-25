@@ -31,12 +31,12 @@ module.exports = [
             },
         },
     ],
-    [
-        'vuepress-plugin-baidu-tongji', // 百度统计
-        {
-            hm: 'e8e310c0a2588005c9569e6b383d8f2c',
-        },
-    ],
+    // [
+    //     'vuepress-plugin-baidu-tongji', // 百度统计
+    //     {
+    //         hm: 'e8e310c0a2588005c9569e6b383d8f2c',
+    //     },
+    // ],
     [
 
         '@vssue/vuepress-plugin-vssue', // 评论
