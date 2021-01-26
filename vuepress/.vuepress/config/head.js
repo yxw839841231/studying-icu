@@ -13,12 +13,19 @@ module.exports = [
     ['meta', {name: 'theme-color', content: '#11a8cd'}], // 移动浏览器主题颜色
     [
         'script',
+        {// CNZZ 统计
+            src: 'https://v1.cnzz.com/z_stat.php?id=1279587136&web_id=1279587136',
+        },
+    ],
+    [
+        'script',
         {
             'data-ad-client': 'ca-pub-5656294142997372',
             async: 'async',
             src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
         },
-    ], // 网站关联Google AdSense 与 html 格式广告支持
+    ],
+    // 网站关联Google AdSense 与 html 格式广告支持
     ['script', {}, `
             var _hmt = _hmt || [];
             (function() {

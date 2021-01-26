@@ -62,7 +62,6 @@ module.exports = {
     // pageTshowMode: 'article',
     pageB:
         `
-<div style="display: none"><script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1279587136&web_id=1279587136"></script></div>
 `
     
 /*`<!-- 横向自适应 -->
