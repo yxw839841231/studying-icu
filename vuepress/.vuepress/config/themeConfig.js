@@ -84,7 +84,7 @@ module.exports = {
     // 页脚信息
     createYear: 2020, // 博客创建年份
     copyrightInfo:
-      'studying.icu <a style="color: #f4f4f4" href="https://www.liuliangbao.cn/" title="流量宝" target="_blank">流量宝</a>', // 博客版权信息，支持a标签
+      'studying.icu <a style="color: #f4f4f4;font-size: 0.1rem" href="https://www.liuliangbao.cn/" title="流量宝" target="_blank">流量宝</a>', // 博客版权信息，支持a标签
   },
   // htmlModules // 插入 html (广告)模块
 }
