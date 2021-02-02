@@ -61,8 +61,7 @@ module.exports = {
       </script>`,*/
     // pageTshowMode: 'article',
     pageB:
-        `
-`
+        ``
     
 /*`<!-- 横向自适应 -->
       <ins class="adsbygoogle"
